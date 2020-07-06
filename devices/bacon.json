@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+        "datetime":1594055018,
+        "filename": "Xtended-XQ-v10.5-bacon-OFFICIAL-20200706.zip",
+        "id": "d903fb73909249c3f2eb8baacb752de9",
+        "romtype": "OFFICIAL",
+        "size":425912798,
+        "url": "https://raw.githubusercontent.com/cCc-OS-Devices/devices/master/builds/bacon/Xtended-XQ-v10.5-bacon-OFFICIAL-20200706.zip",
+        "version": "XQ-v10.5"
+    }
+  ]
+}
